@@ -1,0 +1,12 @@
+.footer-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #CDCDCD;
+    padding: 0 20px;
+}
+
+li {
+    text-align: start;
+}
